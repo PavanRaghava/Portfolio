@@ -62,7 +62,7 @@ export const RESUME: Resume = {
     '4+ years building scalable, component-driven web applications across healthcare, enterprise SaaS, and AI-powered platforms.',
   email: 'pavanraghavabonigeni@gmail.com',
   links: [
-    { label: 'LinkedIn', href: 'https://linkedin.com/in/your-handle' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/pavan-raghava-bonigeni-2b12a816b/' },
     { label: 'GitHub', href: 'https://github.com/PavanRaghava' },
   ],
   skills: [
